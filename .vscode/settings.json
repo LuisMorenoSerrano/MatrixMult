@@ -1,0 +1,5 @@
+{
+  "fortran.formatting.formatter": "findent",
+  "fortran.formatting.path": "/home/lmoreno/.venv/bin",
+  "fortran.fortls.path": "/home/lmoreno/.venv/bin/fortls"
+}
